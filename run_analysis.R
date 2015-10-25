@@ -2,7 +2,7 @@
 library(dplyr)
 
 # change to your working directory
-setwd('/home/sata/tmp/3/r test/coursera/getdata/project/')
+setwd('/path/to/your/wd/')
 
 # fucntion for gathering data
 # join features, activities and subjects
